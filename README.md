@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Alight-Shivam
 my personal repository
 <h1 align="center">Hi 👋, I am Shivam Middha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alight-Shivam&label=Profile%20views&color=0e75b6&style=flat" alt="Alight-Shivam" /> </p>
 
