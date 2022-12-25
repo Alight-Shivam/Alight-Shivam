@@ -28,7 +28,8 @@ my personal repository
 - 📫 How to reach me **shivammiddha2001@gmail.com** **https://www.linkedin.com/in/shivam-middha-1483681a6/**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/in/shivam-middha-1483681a6/
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
