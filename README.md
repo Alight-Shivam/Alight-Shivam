@@ -25,7 +25,7 @@ my personal repository
 
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **shivammiddha2001@gmail.com** **https://www.linkedin.com/in/shivam-middha-1483681a6/**
+- 📫 How to reach me **shivammiddha2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/shivam-middha-1483681a6/
