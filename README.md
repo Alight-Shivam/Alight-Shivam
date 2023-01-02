@@ -22,7 +22,7 @@ my personal repository
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alight-Shivam&label=Profile%20views&color=0e75b6&style=flat" alt="Alight-Shivam" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **ReactJs and DevOps**
 
 - 📫 How to reach me **shivammiddha2001@gmail.com**
 
