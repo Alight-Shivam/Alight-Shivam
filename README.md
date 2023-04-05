@@ -1,42 +1,49 @@
-
-<!--
-**Alight-Shivam/Alight-Shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
 
 
-# Alight-Shivam
-my personal repository
-<h1 align="center">Hey peeps 👋, I am Shivam Middha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Myself SHIVAM MIDDHA
+#### I am in my pre-final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College.
+![Visitor Count](https://profile-counter.glitch.me/Alight-Shivam/count.svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alight-Shivam&label=Profile%20views&color=0e75b6&style=flat" alt="Alight-Shivam" /> </p>
+<div align="center">
+    <br>
+  <h3 align="left">Languages and Tools:</h3>
+  <span>
+  <img alt="html5" width="60px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="60px" src="https://img.icons8.com/color/240/000000/css3.png">
+  <img alt="javascript" width="60px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+  <img src="https://img.icons8.com/color/64/000000/typescript.png"/>
+  <img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
+  <img alt="Node.js" width="60px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img src = "https://img.icons8.com/color/2x/mongodb.png" width="60px"/>
+   <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
+  <img src="https://img.icons8.com/color/64/000000/git.png"/>
+  <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+  <img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
+  <img src = "https://img.icons8.com/wired/2x/postman-api.png" width="60px"/>
+  <img src = "https://cdn.cdnlogo.com/logos/p/63/pug.svg" width="60px"/>
+</span>
+<hr>
 
-- 🌱 I’m currently learning **WebDev, DSA and DevOps**
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alight-Shivam&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alight-Shivam)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alight-Shivam)](https://git.io/streak-stats)
 
-- 📫 How to reach me **shivammiddha2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> https://www.linkedin.com/in/shivam-middha-1483681a6/
-
+ 
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/shivam-middha-1483681a6/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/foodie_dudie_">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+</a>&nbsp;&nbsp;
+ <a href="https://www.twitter.com/Alight_Shivam/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+</a>&nbsp;&nbsp;
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noreferrer"><img src="https://www.clipartmax.com/png/middle/228-2281080_c-logo-elements-of-programming-interviews-by-adnan-aziz.png" alt="C Logo - Elements Of Programming Interviews By Adnan width="40" height="40"/>  </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/128/html-5-icon.png" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/128/css-3-icon.png" alt="CSS" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a> <img src="https://www.clipartmax.com/png/small/251-2512027_free-ben-malin-for-mongodb-icon-xkb-with-den-bosch-mongo-db.png" alt="Free Ben Malin For Mongodb Icon Xkb With Den Bosch - width="40" height="40"/> </a> <a href="https://cdnlogo.com/logo/pug_41495.html"><img src="https://cdn.cdnlogo.com/logos/p/63/pug.svg" width="40" height="40"/> </a> <a href="https://cdnlogo.com/logo/pug_41495.html"><img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" alt="Js Discord Bot Logo - Node Js And React Js@clipartmax.com" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alight-Shivam&show_icons=true&locale=en&layout=compact" alt="Alight-Shivam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alight-Shivam&show_icons=true&locale=en" alt="Alight-Shivam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alight-Shivam&" alt="Alight-Shivam" /></p>
-
