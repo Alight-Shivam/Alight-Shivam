@@ -25,6 +25,7 @@
   <img src = "https://cdn.cdnlogo.com/logos/p/63/pug.svg" width="60px"/>
 </span>
 <hr>
+    
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alight-Shivam&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alight-Shivam)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alight-Shivam)](https://git.io/streak-stats)
