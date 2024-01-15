@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## Myself SHIVAM MIDDHA
-#### I am in my pre-final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College.
+#### I am a final year student pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College.
 #### Exploring Blockchain Development 🥱
 ![Visitor Count](https://profile-counter.glitch.me/Alight-Shivam/count.svg)
 
