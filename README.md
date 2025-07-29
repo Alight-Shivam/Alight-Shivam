@@ -2,9 +2,8 @@
 
 
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-## Myself SHIVAM MIDDHA
-#### I am a final year student pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College.
-#### Full Stack Developer 🥱
+## SHIVAM MIDDHA this side.
+#### Proactive Software Developer @PODTECH | .NET-React Development | Public Speaker #ImpactThroughCode
 ![Visitor Count](https://profile-counter.glitch.me/Alight-Shivam/count.svg)
 
 <div align="center">
