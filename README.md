@@ -4,6 +4,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## SHIVAM MIDDHA this side.
 #### Proactive Software Developer @PODTECH | .NET-React Development | Public Speaker #ImpactThroughCode
+
 ![Visitor Count](https://profile-counter.glitch.me/Alight-Shivam/count.svg)
 
 <div align="center">
